@@ -47,7 +47,8 @@
 - Creating plots with Matplotlib
 - Advanced visualizations with Seaborn
 
-### Week 20: Final Project and Course Wrap-up
+### Week 20: Final 
+ject and Course Wrap-up
 - Applying learned concepts to a business problem
 - Project presentations and peer review
 
